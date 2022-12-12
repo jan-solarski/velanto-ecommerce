@@ -32,6 +32,7 @@ npm run dev
 ```
 ## Application view 🖥
 
+![velanto-homepage](https://user-images.githubusercontent.com/92514481/207139663-83c2bdfb-0721-47bc-a397-9cec6a306740.png)
 
 ## Contact
 
